@@ -1,2 +1,2 @@
 # snakeGame
-basic game with javascript
+![](./img/snale.png)
