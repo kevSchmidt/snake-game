@@ -1,2 +1,2 @@
 # snakeGame
-![](./img/snale.png)
+![](./img/snake.png)
