@@ -1,7 +1,6 @@
-# Snake Game 
-## JavaScript & Canvas
+# JavaScript & Canvas: Snake Game 
+## Preview
 ![](./img/snake.png)
-
 ## How does it works?
 - To be able to create our game, we have to make use of HTML canvas. 
 This is what is used to draw graphics using JavaScript.
