@@ -1,5 +1,5 @@
 # Snake Game 
-## Javascript & Canvas
+## JavaScript & Canvas
 ![](./img/snake.png)
 
 ## How does it works?
