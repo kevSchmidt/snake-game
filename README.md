@@ -1,7 +1,18 @@
-# JavaScript & Canvas: Snake Game 
-## Preview
+# Snake Game 
+- Link of the project: https://kevschmidt.github.io/snake-game/
+- Clone the repository: ``` git clone git@github.com:kevSchmidt/snake-game.git ```
+
+### Tools:
+<h1>
+<img src="https://imgur.com/T1TApg1.png" alt="React" width="20%">
+</h1>
+
+### Preview:
+
 ![](./img/snake.png)
-## How does it works?
+
+### How does it works?
+
 - To be able to create our game, we have to make use of HTML canvas. 
 This is what is used to draw graphics using JavaScript.
 
